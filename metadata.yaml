@@ -1,0 +1,46 @@
+_repo: Sac-au-dos-a-travers-l-Espagne_71504
+_version: 0.0.1
+creator:
+  author:
+    agent_name: France, Hector
+    birthdate: 1837
+    deathdate: 1908
+    gutenberg_agent_id: '3772'
+    url: http://www.gutenberg.org/2009/agents/3772
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Hector_France
+    - https://www.gutenberg.org/ebooks/author/51221
+description: ''
+gutenberg_issued: '2023-08-27'
+identifiers:
+  gutenberg: '71504'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k56614476
+pgterms:marc905: 20230304224728france
+pgterms:marc906: '1888'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bCharpentier, $c1888.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- Description and travel'
+- !lcc 'DP'
+- GITenberg
+tableOfContents: Entrée en Espagne -- Les Passages -- De Saint-Sébastien à Deva --
+  Le capitaine Bonelli -- Loyola -- A travers les Andes -- Le palacio d'Urvaza --
+  Messe au palacio -- Estella -- Logroño -- Le col de Piqueras -- Histoire de brigands
+  -- La vieille Castille -- Les ruines de Numance et Soria -- Madrid -- Flamencos
+  et peteneras -- A los Toros! -- Les toreros -- L'Escorial -- Tolède -- La petite
+  dévote de Compostelle -- La Vierge en chemise et le Christ en jupon -- Les bonnes
+  lames de Tolède -- Visite aux fous -- Le coin des folles -- A travers la Manche
+  -- Mançanarès -- El Muradiel -- La Carolina -- De Baylen à Cordoue -- Grenade --
+  Les gitanos -- Les bandoleros -- Une exécution -- Route de Motril -- La posada du
+  Paradis -- Motril et Malaga -- L'auberge du Grand Saint Iago -- A travers l'Andalousie
+  -- Séville -- Les deux Maria de don Pedro -- Les cigarières -- Sur le Guadalquivir
+  -- Cadix -- De Cadix à Algéciras -- Gibraltar.
+title: Sac au dos à travers l'Espagne
+url: http://www.gutenberg.org/ebooks/71504
